@@ -1,12 +1,9 @@
 # Chatbot Frontend
 
----
-
 This is a simple chatbot application built with React and TypeScript. The chatbot allows users to send and receive messages, edit and delete messages, and provides suggestions based on predefined responses.
 
 ## Features
 
----
 - Send messages to the chatbot.
 - Chatbot provides responses based on predefined message types.
 - Edit or delete user messages.
@@ -16,7 +13,6 @@ This is a simple chatbot application built with React and TypeScript. The chatbo
 
 ## Technologies Used
 
----
 - **React** - For building the user interface.
 - **TypeScript** - For type safety and better developer experience.
 - **CSS** - For styling and hover effects.
@@ -25,7 +21,6 @@ This is a simple chatbot application built with React and TypeScript. The chatbo
 
 ## Getting Started
 
----
 
 ### Prerequisites
 
