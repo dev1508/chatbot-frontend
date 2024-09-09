@@ -71,3 +71,7 @@ npm start
 ## Contact
 
 If you have any questions, feel free to contact the at `dvpp162163@gmail.com`.
+
+### Notes 
+1. This project can be run locally using `https://github.com/dev1508/chatbot-backend`.
+2. Just start both the projects, and the site can be accessed at `http://localhost:3000`.
