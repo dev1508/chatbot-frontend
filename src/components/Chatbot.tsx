@@ -131,7 +131,7 @@ function Chatbot() {
             >
               {messages.map((message, i) => {
                 return (
-                  <div className="message-container" key={i} style={{ display: 'flex', alignItems: 'center' }}>
+                  <div className={message.sender === 'user' ? "message-container" : ""} key={i} style={{ display: 'flex', alignItems: 'center' }}>
                     <Message
                       model={{
                         message: message.message,
