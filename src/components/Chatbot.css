@@ -1,0 +1,53 @@
+
+.message-buttons {
+opacity: 0;
+transition: opacity 0.3s ease;
+margin-left: 10px;
+}
+
+.message-container:hover .message-buttons {
+opacity: 1;
+}
+
+.message-container:hover .message-text {
+margin-right: 150px;
+transition: margin-right 0.3s ease;
+}
+
+.message-buttons {
+position: absolute;
+right: 10px;
+}
+
+.fancy-button {
+padding: 8px 16px;
+border-radius: 20px;
+border: 2px solid transparent;
+font-size: 14px;
+font-weight: bold;
+cursor: pointer;
+transition: all 0.3s ease;
+box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.edit-button {
+background-color: #4caf50;
+color: white;
+}
+
+.edit-button:hover {
+background-color: #45a049;
+box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+transform: translateY(-2px);
+}
+
+.delete-button {
+background-color: #f44336;
+color: white;
+}
+
+.delete-button:hover {
+background-color: #d32f2f;
+box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+transform: translateY(-2px);
+}
