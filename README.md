@@ -28,7 +28,7 @@ Make sure you have the following installed:
 
 ```
 Node.js (version 14 or above)
-npm or yarn
+npm
 ```
 ### Installation
 
@@ -42,23 +42,12 @@ cd chatbot-frontend
 ```
 3. **Install dependencies:**
 ```
-   Using npm:
+npm install
 
-   npm install
-
-   Or, using yarn:
-
-   yarn install
 ```
 4. **Run the application:**
 ```
-   Using npm:
-
-   npm start
-
-   Or, using yarn:
-
-   yarn start
+npm start
 ```
    This will start the development server, and you can view the application in your browser at `http://localhost:3000`.
 
