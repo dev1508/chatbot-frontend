@@ -43,6 +43,7 @@ cd chatbot-frontend
 3. **Install dependencies:**
 ```
 npm install
+npm install @chatscope/chat-ui-kit-react
 
 ```
 4. **Run the application:**
